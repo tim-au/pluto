@@ -6,6 +6,8 @@ A collection of interactive [Pluto.jl](https://github.com/fonsp/Pluto.jl) notebo
 
 [Beta](https://mybinder.org/v2/gh/roualdes/plutonotebooks/main?urlpath=pluto/open?path=/home/jovyan/notebooks/beta.jl)
 
+[Tim's Test](https://mybinder.org/v2/gh/tim-au/pluto/blob/main/notebooks/main?urlpath=pluto/open?path=beta.jl)
+
 [Binomial](https://mybinder.org/v2/gh/roualdes/plutonotebooks/main?urlpath=pluto/open?path=/home/jovyan/notebooks/binomial.jl)
 
 
